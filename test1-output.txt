@@ -1,0 +1,20 @@
+=========================Stage 1=========================
+First word: enjoy
+Sentiment score: 3
+Forms: enjoyed*enjoyed*enjoying*enjoys
+
+=========================Stage 2=========================
+Number of words: 1
+Average number of characters: 5.00
+Average sentiment score: 3.00
+
+=========================Stage 3=========================
+algorithms
+
+=========================Stage 4=========================
+algorithms               0
+Overall score:           0
+
+=========================Stage 5=========================
+algorithms               NOT_FOUND                0
+Overall score:                                    0

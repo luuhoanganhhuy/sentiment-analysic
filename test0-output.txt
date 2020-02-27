@@ -1,0 +1,56 @@
+=========================Stage 1=========================
+First word: break
+Sentiment score: -1
+Forms: broke*broken*breaking*breaks
+
+=========================Stage 2=========================
+Number of words: 6
+Average number of characters: 4.83
+Average sentiment score: 0.17
+
+=========================Stage 3=========================
+algorithms
+are
+fun
+although
+she
+dislikes
+going
+to
+school
+on
+a
+rainy
+day
+
+=========================Stage 4=========================
+algorithms               0
+are                      0
+fun                      4
+although                 0
+she                      0
+dislikes                 0
+going                    0
+to                       0
+school                   0
+on                       0
+a                        0
+rainy                    -1
+day                      0
+Overall score:           3
+
+=========================Stage 5=========================
+algorithms               NOT_FOUND                0
+are                      NOT_FOUND                0
+fun                      fun                      4
+although                 NOT_FOUND                0
+she                      NOT_FOUND                0
+dislikes                 dislike                  -2
+going                    NOT_FOUND                0
+to                       NOT_FOUND                0
+school                   NOT_FOUND                0
+on                       NOT_FOUND                0
+a                        NOT_FOUND                0
+rainy                    rainy                    -1
+day                      NOT_FOUND                0
+Overall score:                                    1
